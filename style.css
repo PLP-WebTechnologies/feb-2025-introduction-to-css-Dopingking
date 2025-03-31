@@ -1,0 +1,40 @@
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+.main-heading {
+    color: #7cf03d;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Paragraph styling */
+.intro-text {
+    color: #1f242d;
+    font-size: 18px;
+    padding: 10px;
+}
+
+/* Image styling */
+#styled-image {
+    width: 250px;
+    height: auto;
+    border: 5px solid #7cf03d;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+/* Footer styling */
+.footer-text {
+    font-size: 14px;
+    color: #555;
+    margin-top: 20px;
+    padding: 10px;
+    border-top: 2px solid #7cf03d;
+}
